@@ -5,6 +5,7 @@ namespace number_gusser
     class Program
     {
         static void Main(string[] args)
+            
         {
             GetAppInfo();
 
